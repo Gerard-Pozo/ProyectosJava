@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PT10.2-Electrodomestics 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PT10.2-Electrodomestics 1.0-SNAPSHOT API'
+com.mycompany.pt10.electrodomestics
+com.mycompany.pt10.electrodomestics.Objectes
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/src/main/java = 1741008848335
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/member-search-index.js = 1741092530154
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/overview-summary.html = 1741092530184
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/help-doc.html = 1741092530187
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/allpackages-index.html = 1741092530151
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/tag-search-index.js = 1741092530154
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/index-all.html = 1741092530177
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/allclasses-index.html = 1741092530147
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/search.html = 1741092530181
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/index.html = 1741092530131
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/type-search-index.js = 1741092530151
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/module-search-index.js = 1741092530151
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/constant-values.html = 1741092530094
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/element-list = 1741092530054
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/overview-tree.html = 1741092530127
+/home/gerard/Documents/Personal/ProgramacionRoxysta/DAM/DAM1/0485-Programació/RA7/PT10.2-Electrodomestics/target/reports/apidocs/package-search-index.js = 1741092530151
